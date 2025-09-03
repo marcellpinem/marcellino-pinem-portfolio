@@ -10,7 +10,6 @@ You can view the website here: [marcellinopinem.netlify.app](https://marcellinop
 ## 🛠 Tech Stack
 
 - HTML, CSS, JavaScript
-- [add framework/library if any]
 
 ## 📂 Features
 
